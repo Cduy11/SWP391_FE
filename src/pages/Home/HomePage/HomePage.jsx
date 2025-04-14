@@ -3,6 +3,6 @@ import React from "react";
 
 export default function HomePage() {
   return (
-    <Box sx={{ color: "black", fontSize: "20px" }}>HomePagendnladlnandnaln</Box>
+    <Box sx={{ color: "black", fontSize: "20px" }}>HomePag</Box>
   );
 }
